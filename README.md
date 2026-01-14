@@ -22,7 +22,3 @@ It allows you to **upload, store, and securely download files from the cloud**, 
 3. Upload files to the bucket
 4. Use presigned URLs to securely share or download files
 
-## Screenshot
-![S3 Bucket Screenshot](Screenshot_2026-01-14_084145.png)
-![File Storage Screenshot](Screenshot_2026-01-14_084320.png)
-
